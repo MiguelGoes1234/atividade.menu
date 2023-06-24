@@ -2,14 +2,40 @@ body {
     margin: 0;
     font-size:28px;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 #navbar{
     overflow: hidden;
-    background-color: #123;
-}
-#navbar a{
-
+    background-color: #3d3c3c;
+    text-align: center;
 }
 .content {
     padding: 16px;
+    text-align: center;
 }
+p {
+    color: #ffffff;
+    text-align: center;
+}
+html {
+    background-color: #3d3c3c;
+    text-align: center;
+}
+h2 {
+    color: #ffffff;
+    text-align: center;
+}
+a {
+    color: black;
+    padding: 8px;
+    margin-left: 4%;
+    background-color: #2ba926;
+    text-align: center;
+    
+}
+.header {
+    background-color: #3d3c3c;
+    padding: 50px;
+    text-align: center;
+}
+
